@@ -1,2 +1,3 @@
 this is a test readme plain text file
-by Wu Sheldon
+by Wu
+This is second version
